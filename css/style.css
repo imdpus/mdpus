@@ -1930,7 +1930,7 @@ a:hover {
   text-align: center;
   position: relative;
   bottom: -35px;
-  background: transparent url(img/shelf.png) 0 100px no-repeat;
+  background: transparent url(../img/shelf.png) 0 100px no-repeat;
   z-index: 2002;
 }
 @media only screen and (min-width: 768px) {
@@ -1976,7 +1976,7 @@ a:hover {
   border: none;
   width: 90px;
   height: 125px;
-  background: transparent url(img/book.png) top left no-repeat;
+  background: transparent url(../img/book.png) top left no-repeat;
   background-size: cover;
   background-color: #FFF;
 }
@@ -2080,7 +2080,7 @@ keyframes coverShake 100% {
 }
 .jcarousel-skin-tango .jcarousel-item:before {
   content: '';
-  background: transparent url(img/book-side.png) top center no-repeat;
+  background: transparent url(../img/book-side.png) top center no-repeat;
   width: 10px;
   height: 100%;
   position: absolute;
@@ -2350,7 +2350,7 @@ keyframes coverShake 100% {
 }
 .biblioRecord .cover-list {
   border-radius: 4px;
-  background: transparent url(img/book.png) top left no-repeat;
+  background: transparent url(../img/book.png) top left no-repeat;
   background-size: cover;
   background-color: #FFF;
   margin: 0 auto;
@@ -2407,7 +2407,7 @@ keyframes coverUp 100% {
 }
 .biblioRecord .cover-list:before {
   content: '';
-  background: transparent url(img/book-side.png) top center no-repeat;
+  background: transparent url(../img/book-side.png) top center no-repeat;
   width: 10px;
   height: 100%;
   position: absolute;
@@ -2506,7 +2506,7 @@ keyframes coverUp 100% {
   height: 250px;
   max-width: 185px;
   border-radius: 4px;
-  background: transparent url(img/book.png) top left no-repeat;
+  background: transparent url(../img/book.png) top left no-repeat;
   background-size: cover;
   background-color: #FFF;
   margin: 0 auto;
@@ -2516,7 +2516,7 @@ keyframes coverUp 100% {
 }
 .s-detail .cover:before {
   content: '';
-  background: transparent url(img/book-side.png) top center no-repeat;
+  background: transparent url(../img/book-side.png) top center no-repeat;
   width: 10px;
   height: 100%;
   position: absolute;
@@ -3161,11 +3161,11 @@ keyframes coverUp 100% {
   border-radius: 50px;
 }
 #loginForm input[type=text].login_input {
-  background: transparent url(img/username.png) 7px 6px no-repeat;
+  background: transparent url(../img/username.png) 7px 6px no-repeat;
   background-size: 32px;
 }
 #loginForm input[type=password].login_input {
-  background: transparent url(img/password.png) 7px 6px no-repeat;
+  background: transparent url(../img/password.png) 7px 6px no-repeat;
   background-size: 32px;
 }
 #loginForm input[type=text]:focus,
